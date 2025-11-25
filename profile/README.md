@@ -1,4 +1,3 @@
-# .github
 # 🌌 **NapFi: The Operating System for Programmable Capital**
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.23-blue)
