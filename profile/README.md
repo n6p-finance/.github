@@ -29,7 +29,7 @@ NapFi enables:
 * 🎯 **Agenda-Based Capital Routing** (missions, legacies, relief funds, etc.)
 * 📈 **Competitive Developer Strategy Marketplace**
 
-NapFi’s vaults are not passive — they are programmable, licensed, monetized, and boostable.
+NapFi’s vaults are not passive they are programmable, licensed, monetized, and boostable.
 
 ---
 
@@ -229,10 +229,11 @@ NapFi is available under the **MIT License**.
 
 (coming soon)
 
-* Website
+* Website: https://napfiland.vercel.app/
 * Documentation
-* Twitter
-* Discord
+* Twitter: https://x.com/nap_Finance
+* Discord: https://discord.gg/7nceYeJ5
+* LinkedIn: https://www.linkedin.com/company/napy-labs/?viewAsMember=true
 
 Developer References:
 
