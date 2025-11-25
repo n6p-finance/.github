@@ -11,6 +11,9 @@
 **NapFi is a modular finance protocol for automated yield, creator monetization, and programmable capital coordination.**
 Built on Base. Designed for DeFi, SocialFi, and RWA integrations.
 
+Video Demo: https://youtu.be/5JH47tJAkMo
+Documentation Team: https://drive.google.com/drive/folders/1bDG6IQNcB2Vny9x0r6311FvkFh4RpBTx
+
 ---
 
 # ⭐ What Is NapFi?
