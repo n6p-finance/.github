@@ -1,5 +1,5 @@
 # .github
-# 🌌 **NapFi — The Operating System for Programmable Capital**
+# 🌌 **NapFi: The Operating System for Programmable Capital**
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.23-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
@@ -15,7 +15,7 @@ Built on Base. Designed for DeFi, SocialFi, and RWA integrations.
 
 # ⭐ What Is NapFi?
 
-NapFi transforms vaults into **programmable capital engines** — capable of yield optimization, on-chain licensing, creator monetization, and agenda-driven capital allocation.
+NapFi transforms vaults into **programmable capital engines** capable of yield optimization, on-chain licensing, creator monetization, and agenda-driven capital allocation.
 
 Think:
 **Yearn x Story Protocol x SocialFi** → re-imagined as a unified ecosystem.
@@ -35,7 +35,7 @@ NapFi’s vaults are not passive — they are programmable, licensed, monetized,
 
 # 🗂 NapFi Ecosystem Repositories
 
-## **1. napfi-sc — Smart Contracts**
+## **1. napfi-sc Smart Contracts**
 
 Next-gen modular vault architecture designed for automation, licensing, and multi-strategy routing.
 
@@ -56,7 +56,7 @@ Next-gen modular vault architecture designed for automation, licensing, and mult
 
 ---
 
-## **2. napfi-be — Indexer & Backend API**
+## **2. napfi-be Indexer & Backend API**
 
 The analytical engine behind NapFi.
 
@@ -72,7 +72,7 @@ Built with **Node.js, Subgraph, Postgres, Redis**.
 
 ---
 
-## **3. napfi-frontend — Unified Dashboard**
+## **3. napfi-frontend Unified Dashboard**
 
 A seamless interface for:
 
@@ -101,7 +101,7 @@ Creators and organizations can temporarily license their vaults:
 
 ---
 
-## **2. Agenda Vaults — Intent-Based Capital**
+## **2. Agenda Vaults Intent-Based Capital**
 
 Users can assign **Agendas** to a vault:
 
